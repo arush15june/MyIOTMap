@@ -1,6 +1,6 @@
 # MyIOTMap
 
-Map Edge Device in Real Time. 
+Map and Analyse information from edge devices in real-time. 
 
 # About
 
