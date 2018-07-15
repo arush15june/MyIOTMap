@@ -1,0 +1,2 @@
+server/*/__migrations__
+server/db.sqlite3
