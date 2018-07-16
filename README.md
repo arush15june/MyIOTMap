@@ -4,7 +4,7 @@ Map and Analyse information from edge devices in real-time.
 
 # About
 
-The aim is to build a real time map of distributed IoT devices communicating to a central server relaying data in real time.
+The aim is to build a real time map of distributed IoT devices communicating with a central server relaying data in real time.
 Analyse historical data logs and make pretty graphs with trends.
 
 ## Tech
