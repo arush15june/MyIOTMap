@@ -13,3 +13,4 @@ Analyse historical data logs and make pretty graphs with trends.
 - Mosquitto as the MQTT Broker
 - paho-mqtt for handling messages.
 
+## Django unchained
